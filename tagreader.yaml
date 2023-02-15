@@ -372,7 +372,7 @@ light:
 - platform: neopixelbus
   variant: WS2812
   pin: D8
-  num_leds: 1
+  num_leds: 16
   flash_transition_length: 500ms
   type: GRB
   id: activity_led
